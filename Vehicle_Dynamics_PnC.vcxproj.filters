@@ -14,4 +14,68 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\car.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\planning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\road.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene_drift.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene_forward.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene_park.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene_turn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\traffic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\traffic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\car.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\planning.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\road.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene_drift.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene_forward.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene_park.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\scene_turn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
