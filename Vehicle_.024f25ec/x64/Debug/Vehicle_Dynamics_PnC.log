@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\azrua\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\main.cpp(77,26): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+C:\Users\azrua\OneDrive\Desktop\Vehicle_Dynamics_PnC-master\main.cpp(77,15): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+  Vehicle_Dynamics_PnC.vcxproj -> C:\Users\azrua\source\repos\Vehicle_Dynamics_PnC\x64\Debug\Vehicle_Dynamics_PnC.exe
